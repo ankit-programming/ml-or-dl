@@ -1,5 +1,0 @@
---->ML ko train kerne ke liye hame feature or labels ke jarurat hote hai
-*feature = jes schij ko dekh ker ham bata sake ke vo kiya hai vo feature hai 
- ex- 1 tress  me leaves ka hona 
-     2 insano me hot,akh,hathetc hotna jes se hame pata chalta hai ke vo insan hai vo features hota hai
-*label = agar ham sare features ko mila de to hame label miljaa hai yane ke ahme pata chal jata hai ke vo insan hai ya cat etc
